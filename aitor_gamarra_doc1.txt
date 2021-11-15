@@ -1,1 +1,2 @@
 Texto en el documento1
+Nueva linea en el primer documento
